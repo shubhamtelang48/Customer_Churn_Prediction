@@ -7,19 +7,19 @@
 --Customer churn is a critical metric because it is much less expensive to retain existing customers than it is to acquire new customers.
 
 # Objectives:
---Finding the % of Churn Customers and customers that keep in with the active services.
+- Finding the % of Churn Customers and customers that keep in with the active services.
 
---Analysing the data in terms of various features responsible for customer Churn
+- Analysing the data in terms of various features responsible for customer Churn
 
---Finding a most suited machine learning model for correct classification of Churn and non churn customers.
+- Finding a most suited machine learning model for correct classification of Churn and non churn customers.
 
 
 # The data set includes information about:
 
--Customers who left within the last month – the column is called Churn
+- Customers who left within the last month – the column is called Churn
 
--Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
+- Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
 
--Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
+- Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 
--Demographic info about customers – gender, age range, and if they have partners and dependents
+- Demographic info about customers – gender, age range, and if they have partners and dependents
