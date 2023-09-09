@@ -23,3 +23,12 @@
 - Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 
 - Demographic info about customers – gender, age range, and if they have partners and dependents
+
+# Tools and Libraries Used:
+
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+- Ploty
+- Scikit Learn
